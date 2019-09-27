@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "會員登入";
+}
+
+
+
+<div class="row">
+    <div class="col">
+        <h1 style="margin:15px 0;font-family:'Microsoft YaHei'">會員登入</h1>
+
+        <form action="@Url.Action("Login")" method="post">
+            <div class="col-6" style="margin:15px auto;">
+                <label style="float:left;">帳號：</label>
+                <input type="text" class="form-control" name="fUserId" id="fUserId" required="required"
+                       placeholder="請輸入帳號">
+            </div>
+            <div class="has-warning col-6" style="margin:15px auto;">
+                <label style="float:left;">密碼：</label>
+                <input type="password" class="form-control" name="fPwd" id="fPwd" required="required"
+                       placeholder="請輸入密碼">
+            </div>
+            <input type="submit" value="登入" class="btn btn-default" />
+            @ViewBag.Message
+        </form>
+    </div>
+</div>

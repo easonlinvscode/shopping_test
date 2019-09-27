@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "ManagerLogin";
+}
+
+
+
+@{
+    ViewBag.Title = "管理者登入";
+}
+
+
+
+<div class="row">
+    <div class="col">
+        <h1 style="margin:15px 0;font-family:'Microsoft YaHei'">管理者登入</h1>
+
+        <form action="@Url.Action("ManagerLogin")" method="post">
+            <div class="col-6" style="margin:15px auto;">
+                <label style="float:left;">帳號：</label>
+                <input type="text" class="form-control" name="fMUserId" id="fMUserId" required="required"
+                       placeholder="請輸入管理者帳號">
+            </div>
+            <div class="has-warning col-6" style="margin:15px auto;">
+                <label style="float:left;">密碼：</label>
+                <input type="password" class="form-control" name="fMPwd" id="fMPwd" required="required"
+                       placeholder="請輸管理者入密碼">
+            </div>
+            <input type="submit" value="登入" class="btn btn-default" />
+            @ViewBag.Message
+        </form>
+    </div>
+</div>

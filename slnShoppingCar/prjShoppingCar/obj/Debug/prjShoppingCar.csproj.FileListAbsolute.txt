@@ -1,0 +1,973 @@
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojResolveAssemblyReference.cache
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\USER\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\課本購物車 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1)\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 改\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改_正常\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 改成功 - 複製\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 測試\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創_專題(1) - 快完成\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\第04組_婚創工作室-林藝兆-林哲寬\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\Users\crazy\Desktop\婚創工作室\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb

@@ -1,0 +1,76 @@
+﻿@model IEnumerable<prjShoppingCar.Models.tProduct>
+
+@{
+    ViewBag.Title = "商品管理";
+}
+
+<h2>商品管理</h2>
+<p>
+    @Html.ActionLink("新增商品","ProductCreate")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.fPId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fPType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fPContent)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fImg)
+        </th>
+
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.fPId)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.fName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.fPType)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.fPContent)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.fPrice)
+    </td>
+    <td>
+        @*@Html.DisplayFor(modelItem => item.fImg)*@
+        @if (@item.fImg == "")
+        {
+            @:無圖示
+        }
+        else
+        {
+            <img src="~/images/wedding/all/@item.fImg" width="130" />
+        }
+    </td>
+
+    <td>
+        @Html.ActionLink("編輯", "ManagerProductEdit", new { fPId = item.fPId }) |
+        @Html.ActionLink("刪除", "ManagerProductDelete", new { fPId = item.fPId }
+        , new { onclick = "return confirm('確定要刪除嗎?')" })
+    </td>
+</tr>
+}
+
+</table>
+<p>
+    @Html.ActionLink("返回管理中心", "ManagerCenter")
+</p>

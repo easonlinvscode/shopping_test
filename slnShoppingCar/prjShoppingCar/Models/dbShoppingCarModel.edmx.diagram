@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="853c3bcb89c946169b92e3aff40f8698" Name="Diagram1">
+        <EntityTypeShape EntityType="dbShoppingCarModel.tMember" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbShoppingCarModel.tServicelist" Width="1.5" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="dbShoppingCarModel.tShoppingCar" Width="1.5" PointX="2.75" PointY="4.75" />
+        <EntityTypeShape EntityType="dbShoppingCarModel.tShoppingCarDateil" Width="1.5" PointX="4.75" PointY="4.75" />
+        <EntityTypeShape EntityType="dbShoppingCarModel.tOrderDetail" Width="1.5" PointX="7.375" PointY="4.75" />
+        <EntityTypeShape EntityType="dbShoppingCarModel.tOrder" Width="1.5" PointX="3.375" PointY="0.75" />
+        <EntityTypeShape EntityType="dbShoppingCarModel.tManager" Width="1.5" PointX="8.875" PointY="2.25" />
+        <EntityTypeShape EntityType="dbShoppingCarModel.tProduct" Width="1.5" PointX="5.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

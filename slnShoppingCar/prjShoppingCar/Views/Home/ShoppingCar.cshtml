@@ -1,0 +1,183 @@
+﻿@model IEnumerable<prjShoppingCar.Models.tOrderDetail>
+
+@{
+    ViewBag.Title = "會員購物車清單";
+    //string TotalAmount = (Session["TotalAmount"] == null) ? "0" : Session["TotalAmount"].ToString();
+    //string TotalAmount = TotalAmount == null ? "0" :
+
+}
+
+@*<script>
+        function OnChangeQty() {
+            alert("value is changed");
+
+
+
+
+            var total = 0;
+            var qty = $(this).find("fQty").val();
+            var price = $(this).find("fQty").text();
+            total = qty * price;
+
+
+
+
+            $(this).find("fAmount").text(total);
+        }
+    </script>*@
+<script>
+
+    $('document').ready(function () {
+        let allamount = 0;
+        let allqty = 0;
+        $('#TableProduct .productitem').each(function () {
+            allamount += Number(parseInt($(this).find(".fAmount").text()));
+        });
+        $('#TableProduct .productitem').each(function () {
+            allamount += Number(parseInt($(this).find(".fAmount").val()));
+        });
+        $('#product_amount').html("共" + allqty + "件/商品金額總計:NT$" + allamount);
+        $('#allamountsave').val(allamount);
+    })
+
+    function amount() {
+        $('#TableProduct .productitem').each(function () {
+            var amount = 0;
+            var num = $(this).find(".fQty").val();
+            var price = parseInt($(this).find(".itemprice").text());
+            amount = num * price;
+            $(this).find(".fAmount").text(amount);
+        });
+
+        let allamount = 0;
+        let allqty = 0
+        $('#TableProduct .productitem').each(function () {
+            allamount += Number(parseInt($(this).find(".fAmount").text()));
+        });
+        $('#TableProduct .productitem').each(function () {
+            allqty += Number(parseInt($(this).find(".fQty").val()));
+        });
+        $('#product_amount').html("共" + allqty + "件/商品金額總計:NT$" + allamount);
+        $('#allamountsave').val(allamount);
+
+    }
+
+</script>
+
+<h2>會員購物車清單</h2>
+
+<table class="table" id="TableProduct">
+    <tr>
+
+        <th>
+            @Html.DisplayNameFor(model => model.fPId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fQty)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fIsApproved)
+        </th>
+        <td>
+            @Html.DisplayNameFor(model => model.fAmount)
+        </td>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+
+        <tr class="productitem">
+
+            <td>
+                @Html.DisplayFor(modelItem => item.fPId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fName)
+            </td>
+            <td class="itemprice">
+                @Html.DisplayFor(modelItem => item.fPrice)
+            </td>
+            <td>
+                <div class="form-group">
+                    <div class="col-md-10">
+                        <input class="fQty" type="number" name="fQty" value="1" required="required" min="1"
+                               onchange="amount()" style="width:100%" />
+                        @*@Html.EditorFor(modelItem => item.fQty, new { htmlAttributes = new { @class = "form-control" , @onchange = "OnChangeQty()"} })
+                            @Html.ValidationMessageFor(modelItem => item.fQty, "", new { @class = "text-danger" })*@
+                    </div>
+                </div>
+                @*//////////////////////////////////////////////*@
+                @*@Html.DisplayFor(modelItem => item.fQty)*@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fIsApproved)
+            </td>
+            <td class="fAmount">
+                @Html.DisplayFor(modelItem => item.fAmount)
+            </td>
+            <td>
+                <a href="@Url.Action("DeleteCar")?fId=@item.fId" class="btn btn-danger">刪除購物車</a>
+            </td>
+        </tr>
+
+    }
+
+
+    <tr>
+        <td colspan="5">總計</td>
+        <td id="product_amount">
+        </td>
+        <td></td>
+    </tr>
+</table>
+<hr />
+
+
+<form action="@Url.Action("ShoppingCar")" method="post">
+    <div class="form-horizontal">
+        <h4>填寫訂單收件人資料</h4>
+        <hr />
+
+        <div class="form-group">
+            <span class="control-label col-md-2">收件人姓名</span>
+            <div class="col-md-6">
+                <input type="text" id="fReceiver" name="fReceiver" required="required" class="form-control" />
+            </div>
+        </div>
+        <div class="form-group">
+            <span class="control-label col-md-2">收件人電話</span>
+            <div class="col-md-6">
+                <input type="tel" id="fPhone" name="fPhone" required="required" class="form-control" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <span class="control-label col-md-2">收件人信箱</span>
+            <div class="col-md-6">
+                <input type="email" id="fEmail" name="fEmail" required="required" class="form-control" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <span class="control-label col-md-2">收件人地址</span>
+            <div class="col-md-6">
+                <input type="text" id="fAddress" name="fAddress" required="required" class="form-control" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="確認訂購" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+

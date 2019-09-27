@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbShoppingCarModelStoreContainer" CdmEntityContainer="dbShoppingCarEntities">
+    <EntitySetMapping Name="tMember">
+      <EntityTypeMapping TypeName="dbShoppingCarModel.tMember">
+        <MappingFragment StoreEntitySet="tMember">
+          <ScalarProperty Name="fUAddress" ColumnName="fUAddress" />
+          <ScalarProperty Name="fBirthday" ColumnName="fBirthday" />
+          <ScalarProperty Name="fSex" ColumnName="fSex" />
+          <ScalarProperty Name="fTel" ColumnName="fTel" />
+          <ScalarProperty Name="fId" ColumnName="fId" />
+          <ScalarProperty Name="fUserId" ColumnName="fUserId" />
+          <ScalarProperty Name="fPwd" ColumnName="fPwd" />
+          <ScalarProperty Name="fName" ColumnName="fName" />
+          <ScalarProperty Name="fEmail" ColumnName="fEmail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tServicelist">
+      <EntityTypeMapping TypeName="dbShoppingCarModel.tServicelist">
+        <MappingFragment StoreEntitySet="tServicelist">
+          <ScalarProperty Name="fServiceContent" ColumnName="fServiceContent" />
+          <ScalarProperty Name="fServiceSub" ColumnName="fServiceSub" />
+          <ScalarProperty Name="fServiceSort" ColumnName="fServiceSort" />
+          <ScalarProperty Name="fServiceEmail" ColumnName="fServiceEmail" />
+          <ScalarProperty Name="fQuestionGuid" ColumnName="fQuestionGuid" />
+          <ScalarProperty Name="fUserId" ColumnName="fUserId" />
+          <ScalarProperty Name="fServiceGuid" ColumnName="fServiceGuid" />
+          <ScalarProperty Name="fServiceDate" ColumnName="fServiceDate" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tShoppingCar">
+      <EntityTypeMapping TypeName="dbShoppingCarModel.tShoppingCar">
+        <MappingFragment StoreEntitySet="tShoppingCar">
+          <ScalarProperty Name="fShoppingStatus" ColumnName="fShoppingStatus" />
+          <ScalarProperty Name="fTotal" ColumnName="fTotal" />
+          <ScalarProperty Name="fUserId" ColumnName="fUserId" />
+          <ScalarProperty Name="fShoppingGuid" ColumnName="fShoppingGuid" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tShoppingCarDateil">
+      <EntityTypeMapping TypeName="dbShoppingCarModel.tShoppingCarDateil">
+        <MappingFragment StoreEntitySet="tShoppingCarDateil">
+          <ScalarProperty Name="fPrice" ColumnName="fPrice" />
+          <ScalarProperty Name="fQty" ColumnName="fQty" />
+          <ScalarProperty Name="fImg" ColumnName="fImg" />
+          <ScalarProperty Name="fName" ColumnName="fName" />
+          <ScalarProperty Name="fPId" ColumnName="fPId" />
+          <ScalarProperty Name="fShoppingGuid" ColumnName="fShoppingGuid" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tOrderDetail">
+      <EntityTypeMapping TypeName="dbShoppingCarModel.tOrderDetail">
+        <MappingFragment StoreEntitySet="tOrderDetail">
+          <ScalarProperty Name="fTotal" ColumnName="fTotal" />
+          <ScalarProperty Name="fAmount" ColumnName="fAmount" />
+          <ScalarProperty Name="fIsApproved" ColumnName="fIsApproved" />
+          <ScalarProperty Name="fQty" ColumnName="fQty" />
+          <ScalarProperty Name="fPrice" ColumnName="fPrice" />
+          <ScalarProperty Name="fName" ColumnName="fName" />
+          <ScalarProperty Name="fPId" ColumnName="fPId" />
+          <ScalarProperty Name="fUserId" ColumnName="fUserId" />
+          <ScalarProperty Name="fOrderGuid" ColumnName="fOrderGuid" />
+          <ScalarProperty Name="fId" ColumnName="fId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tOrder">
+      <EntityTypeMapping TypeName="dbShoppingCarModel.tOrder">
+        <MappingFragment StoreEntitySet="tOrder">
+          <ScalarProperty Name="fPhone" ColumnName="fPhone" />
+          <ScalarProperty Name="fDate" ColumnName="fDate" />
+          <ScalarProperty Name="fAddress" ColumnName="fAddress" />
+          <ScalarProperty Name="fEmail" ColumnName="fEmail" />
+          <ScalarProperty Name="fReceiver" ColumnName="fReceiver" />
+          <ScalarProperty Name="fUserId" ColumnName="fUserId" />
+          <ScalarProperty Name="fOrderGuid" ColumnName="fOrderGuid" />
+          <ScalarProperty Name="fId" ColumnName="fId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tManager">
+      <EntityTypeMapping TypeName="dbShoppingCarModel.tManager">
+        <MappingFragment StoreEntitySet="tManager">
+          <ScalarProperty Name="fMPwd" ColumnName="fMPwd" />
+          <ScalarProperty Name="fMUserId" ColumnName="fMUserId" />
+          <ScalarProperty Name="fMName" ColumnName="fMName" />
+          <ScalarProperty Name="fId" ColumnName="fId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tProduct">
+      <EntityTypeMapping TypeName="dbShoppingCarModel.tProduct">
+        <MappingFragment StoreEntitySet="tProduct">
+          <ScalarProperty Name="fImg_1" ColumnName="fImg_1" />
+          <ScalarProperty Name="fPrice" ColumnName="fPrice" />
+          <ScalarProperty Name="fImg" ColumnName="fImg" />
+          <ScalarProperty Name="fPContent" ColumnName="fPContent" />
+          <ScalarProperty Name="fName" ColumnName="fName" />
+          <ScalarProperty Name="fPType" ColumnName="fPType" />
+          <ScalarProperty Name="fPId" ColumnName="fPId" />
+          <ScalarProperty Name="fId" ColumnName="fId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

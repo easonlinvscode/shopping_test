@@ -1,0 +1,455 @@
+/* * 清除內外邊距 **/
+/* body, h1, h2, h3, h4, h5, h6, hr, p,  */
+/* blockquote, structural elements 結構元素 */
+/* dl, dt, dd, ul, ol, li, list elements 清單元素 */
+/* pre, text formatting elements 文本格式元素 */
+/* form, fieldset, legend, button, input, textarea, form elements 表單元素 */
+/* th, td, table elements 表格元素 */
+/* imgimg elements 圖片元素{  */
+  /* border:medium none;  */
+  /* margin: 0;  */
+  /* padding: 0;  */
+/* }  */
+/** 設置預設字體 **/
+/* body,button, input, select, textarea {  */
+  /* font: 12px/1.5 '宋體',tahoma, Srial, helvetica, sans-serif;  */
+/* }  */
+/* h1, h2, h3, h4, h5, h6 { font-size: 100%; }  */
+/* em{font-style:normal;}  */
+/** 重置清單元素 **/
+/* ul, ol { list-style: none; }  */
+/** 重置超連結元素 **/
+/* a { text-decoration: none; color:#333;}  */
+/* a:hover { text-decoration: underline; color:#F40; }  */
+/** 重置圖片元素 **/
+/* img{ border:0px;}  */
+/** 重置表格元素 * */
+table { border-collapse: collapse; border-spacing: 0; }
+          
+          
+          
+          @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+          body {
+               font-family: 'Poppins', sans-serif;
+               background: #868686;
+          }
+          .menu1 a {
+               color: rgb(255, 253, 253);
+               font-family: 'Microsoft JhengHei';
+               font-size: 15px;
+               width:100px;
+          }
+
+          .menu1 a:hover,
+          .menu1 a:focus {
+               color: #000000;
+               text-decoration: none;
+               transition: all 0.3s;
+          }
+
+          .navbar {
+               padding: 15px 10px;
+               background: rgb(230, 146, 146);
+               border: none;
+               border-radius: 0;
+               margin-bottom: 40px;
+               box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+               border-radius: 10px;
+               height: 100px;
+          }
+
+          .navbar-btn {
+               box-shadow: none;
+               outline: none !important;
+               border: none;
+          }
+
+          .line {
+               width: 100%;
+               height: 1px;
+               border-bottom: 1px dashed #ddd;
+               margin: 40px 0;
+          }
+
+          .menu1 li {
+               font-family: 'Poppins', sans-serif;
+               font-weight: 500;
+               position: relative;
+               /* margin: 3px; */
+
+          }
+
+          .menu1 {
+               display: inline-flex;
+               /* padding: auto; */
+               /* margin: auto; */
+               position: relative;
+          }
+
+          .menu1 a {
+               width: 100%;
+               height: 100%;
+               display: block;
+               position: absolute;
+
+          }
+
+          .nav .logo {
+               display: block;
+               padding: 50px;
+               margin: auto;
+               position: relative;
+          }
+
+          .nav li p {
+               font-size: 12px;
+          }
+
+/* ---------------------------------------------------
+    SIDEBAR STYLE
+----------------------------------------------------- */
+
+          #sidebar {
+               width: 250px;
+               position: fixed;
+               top: 0;
+               left: -250px;
+               height: 100vh;
+               z-index: 999;
+               background: rgb(81, 82, 83);
+               color: rgb(230, 146, 146);
+               transition: all 0.3s;
+               overflow-y: scroll;
+               box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
+          }
+
+          #sidebar.active {
+               left: 0;
+          }
+
+          #dismiss {
+               width: 35px;
+               height: 35px;
+               line-height: 35px;
+               text-align: center;
+               background: rgb(81, 82, 83);
+               position: absolute;
+               top: 10px;
+               right: 10px;
+               cursor: pointer;
+               -webkit-transition: all 0.3s;
+               -o-transition: all 0.3s;
+               transition: all 0.3s;
+          }
+
+          #dismiss:hover {
+               background: rgb(230, 228, 228);
+               color: rgb(81, 82, 83);
+          }
+
+          .overlay {
+               display: none;
+               position: fixed;
+               width: 100vw;
+               height: 100vh;
+               background: rgba(0, 0, 0, 0.7);
+               z-index: 998;
+               opacity: 0;
+               transition: all 0.5s ease-in-out;
+          }
+
+          .overlay.active {
+               display: block;
+               opacity: 1;
+          }
+
+          #sidebar .sidebar-header {
+               padding: 20px;
+               background: rgb(81, 82, 83);
+          }
+
+          #sidebar ul.components {
+               padding: 20px 0;
+               border-bottom: 1px solid #47748b;
+          }
+
+          #sidebar ul p {
+               color: rgb(85, 84, 84);
+               padding: 10px;
+          }
+
+          #sidebar ul li a {
+               padding: 10px;
+               font-size: 1.1em;
+               display: block;
+          }
+
+          #sidebar ul li a:hover {
+               color: rgb(81, 82, 83);
+               background: #fff;
+               font-size: 16px;
+          }
+
+          #sidebar ul li.active>a,
+          a[aria-expanded="true"] {
+               color: rgb(255, 255, 255);
+               background: rgb(81, 82, 83);
+          }
+
+          a[data-toggle="collapse"] {
+               position: relative;
+          }
+
+          .dropdown-toggle::after {
+               display: block;
+               position: absolute;
+               top: 50%;
+               right: 20px;
+               transform: translateY(-50%);
+          }
+
+          ul ul a {
+               font-size: 1.2em !important;
+               padding-left: 30px !important;
+               background: rgb(81, 82, 83);
+          }
+
+          a.download {
+               background: #fff;
+               color: rgb(81, 82, 83);
+          }
+
+          a.article,
+          a.article:hover {
+               background: rgb(81, 82, 83) !important;
+               color: #fff !important;
+          }
+
+          .title .btn {
+               background-color: rgba(126, 123, 123, 0.3);
+               color: aliceblue;
+               margin: 10px;
+               padding: auto;
+
+          }
+
+
+          @media screen and (max-width:760px) {
+               .menu1 .nav li {
+                    display: none;
+               }
+
+               .menu .btn {
+                    display: block;
+                    padding: auto;
+                    margin-right: 90%;
+               }
+
+               .navFixed {
+                    height: 50px;
+                    position: fixed;
+               }
+
+               .menu2 {
+                    padding-top: 60px;
+               }
+          }
+
+          @media screen and (min-width:680px) {
+               .menu button {
+                    display: none;
+               }
+
+
+
+          }
+
+
+          /* ---------------------------------------------------
+          CONTENT STYLE
+          ----------------------------------------------------- */
+          #content {
+               width: 100%;
+               padding: 0px;
+               min-height: 100vh;
+               transition: all 0.3s;
+               position: absolute;
+          }
+
+
+
+          .menu {
+               position: absolute;
+               margin: 0px;
+               padding: 0px;
+
+          }
+
+
+          .logo-btn {
+               background-color: rgba(0, 186, 233, 0);
+               border: rgb(255, 255, 255) solid 1px;
+               border-radius: 7px;
+               text-align: center;
+               /* width: 70px;
+               height: 30px; */
+               /* display: inline; */
+               -webkit-box-shadow: 2px 2px 5px #666666;
+               -moz-box-shadow: 2px 2px 5px #666666;
+               box-shadow: 2px 2px 5px #000000;
+               position: absolute;
+               display: block;
+               top: 80%;
+          }
+
+          .logo-btn:hover {
+               background-color: rgba(136, 133, 133, 0.623);
+               border: rgb(255, 255, 255) solid 1px;
+               border-radius: 7px;
+               text-align: center;
+               /* width: 70px;
+               height: 30px; */
+               /* display: inline; */
+               -webkit-box-shadow: 2px 2px 5px #666666;
+               -moz-box-shadow: 2px 2px 5px #666666;
+               box-shadow: 2px 2px 5px #000000;
+               position: relative;
+               display: block;
+               top: 80%;
+          }
+
+          .btn {
+               color: rgba(255, 255, 255, 0.863);
+               font-family: "Microsoft JhengHei";
+               font-weight: 900;
+               overflow: hidden;
+          }
+
+          .carousel-content {
+               text-align: center;
+               position: relative;
+               display: block;
+               padding-top: 30%;
+               margin: auto;
+          }
+
+          .navFixed {
+               z-index: 10;
+               top: 0;
+               left: 0;
+               margin-top: 0;
+               min-width: 100%;
+               opacity: 0.8;
+               transition: .5s ease-out;
+          }
+
+          /* <=====================section======================> */
+          .divH {
+               height: 300px;
+
+          }
+
+          .carousel-indicators {
+               font-size: 3px;
+          }
+          .rollimg{
+               width: 100%;
+               height: 600px;
+          }
+
+          /* <=====================topmenu選單==========================> */
+          #top {
+               position: fixed;
+               width: 76px;
+               height: 76px;
+               right: 10px;
+               bottom: 10px;
+               background-color: rgb(78, 77, 77);
+               z-index: 999;
+               cursor: pointer;
+          }
+
+          #top:hover {
+               background-color: rgb(97, 96, 96);
+          }
+
+          #top-bar {
+               width: 100%;
+               height: 60px;
+               z-index: 100;
+               background: rgb(83, 83, 83);
+               position: fixed;
+               top: -65px;
+               -webkit-box-shadow: 0 5px 5px rgba(89, 81, 66, 0.3);
+               -moz-box-shadow: 0 5px 5px rgba(89, 81, 66, 0.3);
+               box-shadow: 0 5px 5px rgba(89, 81, 66, 0.3);
+               opacity: 0.95;
+          }
+
+          .topmenu {
+               width: 100%;
+               height: 60px;
+               margin: auto;
+               line-height: 60px;
+               text-align: center;
+               position: relative;
+               display: inline-block;
+               overflow: hidden;
+
+          }
+
+          .topmenu img {
+               position: relative;
+               top: 5px;
+               left: 15px;
+               float: left;
+
+          }
+
+          .topmenu ul {
+               display: inline-block;
+               position: relative;
+               list-style-type: none;
+               top: 13px;
+          }
+
+          .topmenu ul li {
+               position: relative;
+               float: left;
+               margin-left: 15px;
+               top: -15px;
+               left: -35px;
+
+          }
+
+          .topmenu ul li a:link,
+          a:focus,
+          a:active,
+          a:visited {
+               font-size: 10pt;
+               text-decoration: none;
+               color: #ffffff;
+               transition: .3s;
+          }
+
+          .topmenu ul li a:hover {
+               position: relative;
+               color: #a49982;
+          }
+
+          .shoppingcart i {
+               font-size: 25px;
+               text-align: center;
+               padding-top: 50%;
+          }
+
+          /* <======================topmenu結束============================ */
+          /* ========================選單3============================== */
+
+          /* ========================選單3結束============================== */
+.footer{
+      background-color: rgb(119, 117, 117);
+      width: 100%;
+      height: 200px;
+    }

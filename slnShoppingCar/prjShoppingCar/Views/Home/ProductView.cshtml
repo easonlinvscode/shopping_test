@@ -1,0 +1,184 @@
+﻿@model IEnumerable<prjShoppingCar.Models.tProduct>
+
+@{
+    ViewBag.Title = "商品說明";
+}
+@foreach (var item in Model)
+{
+    <style>
+        .box1 {
+            width: 100%;
+            /* height: 60px; */
+            margin: 10px;
+        }
+
+            .box1 a {
+                text-decoration: none;
+            }
+
+        .box3 {
+            width: 600px;
+            height: 400px;
+            background-color: rgba(175, 132, 132, 0);
+            padding: 0;
+            margin: 0;
+            float: left;
+            border: rgba(120, 136, 120, 0) solid 3px;
+            border-radius: 5px;
+            outline-style: none;
+        }
+
+        .box2 {
+            width: 400px;
+            height: 300px;
+            background-color: rgb(255, 255, 255);
+            margin: 10px;
+            float: left;
+            text-align: left;
+
+        }
+
+
+        .box4 {
+            width: 100%;
+            height: 60px;
+            background-color: rgb(148, 148, 148);
+            margin: 10px;
+        }
+
+        .formItem {
+            padding-top: 10%;
+            display: block;
+        }
+
+        button {
+            width: 30px;
+            outline-style: none;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+
+        input {
+            outline-style: none;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+
+        .big-img {
+            width: 400px;
+            height: 200px;
+            margin: 5px auto;
+            display: block;
+            border: rgba(0, 0, 0, 0) solid 3px;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 3px 3px 12px gray;
+        }
+
+        .SS {
+            margin: 15px;
+            outline-style: none;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            display: block;
+            overflow: hidden;
+            box-shadow: 3px 3px 12px gray;
+        }
+    </style>
+
+    <h2>商品說明</h2>
+
+
+
+
+
+    <div class="page-body">
+        <div class="container">
+
+            <div class="row" style="justify-content: center">
+                <div class="row box3 justify-content-center">
+                    <div class="box boxtop big-img">
+                        @if (@item.fImg == "")
+                        {
+                            @:無圖示
+                        }
+                        else
+                        {
+                            <img src="~/images/wedding/all/@item.fImg" id="b" class="img-fluid">
+                        }
+                    </div>
+                    <div class="small row">
+                        <div class="SS col" data-img="001">
+                            @if (@item.fImg == "")
+                            {
+                                @:無圖示
+                            }
+                            else
+                            {
+                                <img src="~/images/wedding/all/@item.fImg"  class="img-fluid thumb" data-src="/images/wedding/all/@item.fImg" />
+                            }
+
+                        </div>
+                        <div class="SS col" data-img="002">
+                            <div>
+                                @if (@item.fImg_1 == "")
+                                {
+                                    @:無圖示
+                                }
+                                else
+                                {
+                                    <img src="~/images/wedding/all/@item.fImg_1" class="img-fluid thumb" data-src="/images/wedding/all/@item.fImg_1" />
+                                }
+                                                    </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="box2">
+                    <div>
+                        <h5 style="font-size: 20px;font-weight:bold;">@Html.DisplayFor(modelItem => item.fName)</h5><br>
+                        <p>[商品編號]</p>
+                        <h5 style="font-weight:bold;">@Html.DisplayFor(modelItem => item.fPId)</h5><br>
+                        <p>[單價]</p>
+                        <p style="font-size: 20px;font-weight:bold;">$@Html.DisplayFor(modelItem => item.fPrice)</p><br>
+                    </div>
+                    <div>
+                        <p>[商品種類]</p>
+                        <p style="font-weight:bold;">@Html.DisplayFor(modelItem => item.fPType)</p>
+                        <p>[商品說明]</p>
+                        <p style="font-weight:bold;">@Html.DisplayFor(modelItem => item.fPContent)</p>
+                    </div>
+                    <div class="formItem">
+                        <div class="numSetr" style="text-align: center">
+                            @*<button class="minus">-</button><input class="" type="text" value="1"
+                                                                       id="product_num" name="product_num"><button class="add">+</button>
+                                <label class="btn btn-info">加入購物車</label>*@
+                            @if (Session["Member"] == null)
+                            {
+                                <p></p>
+                            }
+                            else
+                            {
+                                <p style="line-height:90%;display:block;">
+                                    <a href="@Url.Action("AddCar")?fPId=@item.fPId" class="btn btn-primary">加入購物車</a>
+                                </p>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+<script>
+    let thumb = document.querySelectorAll(".thumb");
+    console.log(thumb);
+    thumb.forEach(function (t) {
+        console.log(t.dataset.src);
+        t.addEventListener("mouseover", function () {
+            let g = document.getElementById("b");
+            g.setAttribute("src", this.getAttribute("data-src"));
+        });
+    });
+</script>
+

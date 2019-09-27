@@ -1,0 +1,160 @@
+﻿@model IEnumerable<prjShoppingCar.Models.tProduct>
+
+@{
+    ViewBag.Title = "婚創工作室";
+}
+
+<div class="container-fluid contentbody" style="padding:0px;">
+    <div class="justify-content-center">
+        <div class="menu2">
+            <div id="myCarousel" style="text-align: center" class="carousel slide" data-ride="carousel" data-interval="3000">
+                <!-- （Carousel) -->
+                <ol class="carousel-indicators active">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                    <li data-target="#myCarousel" data-slide-to="3"></li>
+                </ol>
+                <!-- （Carousel） -->
+                <div class="card carousel-inner">
+                    <div class="item active">
+                        <div class="carousel-background rollimg col">
+                            <img src="~/images/index1.jpg" class="img-fluid" alt="third slide"style="width:100%;">
+                            <div class="card-body  card-img-overlay text-center">
+                                <div class="carousel-content">
+                                    <p>
+                                        <img src="~/images/logo_2(圓).png" class="img-fluid" style="width:200px; margin:0px; padding:0px" />
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-caption"></div>
+                    </div>
+
+                    <div class="item">
+                        <div class="rollimg col">
+                            <img src="~/images/index2.jpg" class="img img-fluid" alt="third slide"style="width:100%;">
+                            <div class="card-body  card-img-overlay">
+                                <div class="carousel-content">
+                                    <div class="carousel-content">
+                                        <p>
+                                            <img src="~/images/logo_2(圓).png" class="img-fluid" style="width:200px; margin:0px; padding:0px;" />
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-caption"></div>
+                    </div>
+
+                    <div class="item">
+                        <div class="rollimg col">
+                            <img src="~/images/index3.jpg" class="img-fluid"
+                                 alt="third slide"style="width:100%;">
+                            <div class="card-body  card-img-overlay">
+                                <div class="carousel-content">
+                                    <div class="carousel-content">
+                                        <p>
+                                            <img src="~/images/logo_2(圓).png" class="img-fluid" style="width:200px; margin:0px; padding:0px;" />
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-caption"></div>
+                    </div>
+                    <div class="item">
+                        <div class="rollimg">
+                            <img src="~/images/index4.jpg" class="img-fluid"
+                                 alt="third slide"style="width:100%;">
+                            <div class="card-body  card-img-overlay">
+                                <div class="carousel-content">
+                                    <div class="carousel-content">
+                                        <p>
+                                            <img src="~/images/logo_2(圓).png" class="img-fluid" style="width:200px; margin:0px; padding:0px;" />
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-caption"></div>
+                    </div>
+                    <!-- （Carousel)箭頭 -->
+                    <a class="left carousel-control" style="width: 10%;" href="#myCarousel" role="button"
+                       data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" style="width: 10%;" href="#myCarousel"
+                       role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <p style="color:black; text-shadow:3px 3px 3px #cccccc; font-size:24px; margin:40px 100px;font-family:'Microsoft YaHei';text-align:center; font-weight:300;">
+            故事中沒有華麗的鋪張與美麗的錯覺，放鬆心情揮灑歡笑做您想做的，拍您想拍的，玩你們愛玩的。做為白頭偕老的至此不渝的證明，我們仔細地傾聽你們需求，熱情的服務每一段細節感動的，與您共同記錄幸福的來臨。為您呈現的是所為最真實的美好。
+        </p>
+    </div>
+
+
+    <div>
+        <div class="box1-1" style="margin:0;padding:0;height:400px; width:100%; overflow:hidden;border:0px;">
+            <a href="@Url.Action("Store","Home")">
+                <img src="~/images/index2-1.jpg" class="img-fluid">
+            </a>
+        </div>
+        <div class="box1text" style="font-family:'Microsoft YaHei';font-size:24px;padding:60px; text-align:center;">婚禮小物最早是歐美流傳過來的，因為歐美國家沒有收禮金或紅包之類的習俗，賓客會選購新人需要的新婚物品當作禮物，而新人也會準備一些精美的小物品，當作紀念送給遠道而來的賓客，流傳到台灣婚禮小物的使用更加廣泛，只要是新人在婚禮上為賓客準備的禮物都可總稱為婚禮小物。</div>
+        <div class="box1-2" style="margin:0;padding:0; height:400px; width:100%; overflow:hidden;border:0px; position:relative;">
+            <a href="@Url.Action("Photography","Home")" class="text-center">
+                <img src="~/images/index3-1.jpg" class="img-fluid">
+            </a>
+        </div>
+        <div class="box1text nav-tabs" style="font-family:'Microsoft YaHei';font-size:24px;padding:60px; text-align:center;">
+            對於沒經驗的朋友來說，事先準備一份喜宴預定流程與注意事項是非常有必要的，因為，它不但有助於婚禮的統籌規劃，而且還能保障新人的利益，所以，非常重要，不可馬虎，喜宴預定流程與注意事項。
+        </div>
+    </div>
+    <div class="container" style="text-align: center;">
+        <p id="prjtext" class="nav-tabs" style="font-weight:800; font-size:40px;">
+            婚宴方案
+        </p>
+        <div class="box1text" style="font-family:'Microsoft YaHei';font-size:24px;padding:60px; text-align:center;">
+            對於沒經驗的朋友來說，事先準備一份喜宴預定流程與注意事項是非常有必要的，因為，它不但有助於婚禮的統籌規劃，而且還能保障新人的利益，所以，非常重要，不可馬虎，喜宴預定流程與注意事項。
+        </div>
+    </div>
+
+    <!-- ===============婚宴方案開始======================= -->
+    <div class="container-fluid">
+        <div class="d-flex justify-content-center" id="menu4">
+            <div id="menu4img" class="box">
+                <a href="@Url.Action("Program","Home")">
+                    <img src="~/images/prj/wedding.jpg" class="img-fluid" alt="">
+                    貴族婚禮想必也是許多新娘子的口袋名單！「華麗皇后」的主題風格，給人一種變化多端神秘的既定印象，亦或者是18世紀紅極一時的洛可可風。使用深紅色與湛藍色作為對比，打造嶄新皇后style，讓人忍不住想一覽魔鏡裡皇后的神秘嫁紗。
+                </a>
+            </div>
+            <div id="menu4img" class="box">
+                <a href="@Url.Action("Program","Home")">
+                    <img src="~/images/prj/wedding1.jpg" class="img-fluid" alt="">
+                    時下最流行的婚禮風潮，非森林感的自然系莫屬了！帶給他人一種空靈、 輕巧的感覺，搭配上近期熱門的美式婚禮風格，結合綠白色系，營造夢幻氛圍。近年來，婚禮常習慣使用許多配件、小道具來增添視覺感，運用大量自然花材，讓森林主題的婚禮走向更濃厚的純天然！
+                </a>
+            </div>
+            <div id="menu4img" class="box">
+                <a href="@Url.Action("Program","Home")">
+                    <img src="~/images/prj/wedding2.jpg" class="img-fluid" alt="">
+                    <p>喜愛空中婚禮的新人看過來！這篇教妳如何在浪漫冬季，並結合戶外場景，打造專屬的唯美婚禮，就讓花藝為妳的婚禮加分吧！</p>
+                </a>
+            </div>
+            <div id="menu4img" class="box">
+                <a href="@Url.Action("Program","Home")">
+                    <img src="~/images/prj/wedding3.jpg" class="img-fluid" alt="">
+                    <p>隨著婚禮形式慢慢走向多元化，舉行一場主題式婚禮也曾了新人的另項難題；若妳不想侷限於制式化的傳統婚宴，想讓賓客們感受自在氛圍、暢所欲言，放寬心玩耍，那麼戶外野餐婚宴絕對是妳的好選擇！在草地上鋪野餐墊，擺放簡易的編織籃，春意盎然！</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ===============婚宴方案結束======================= -->

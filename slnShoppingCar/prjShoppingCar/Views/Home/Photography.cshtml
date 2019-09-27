@@ -1,0 +1,171 @@
+﻿
+@{
+    ViewBag.Title = "婚禮攝影";
+}
+
+<style>
+    section {
+        background-image: url("~/images/bg.jpg");
+        background-repeat: no-repeat;
+    }
+
+    .col-4,
+    .col-6,
+    .col-8,
+    .col-3,
+    .col {
+        padding: 1px;
+    }
+
+    p, h1 {
+        font-family: "Microsoft YaHei";
+    }
+</style>
+
+<script>
+    $('#youModel').on('shown.bs.modal', function (e) {
+        // ??代?，如??modal?置? block，?$modala_dialog.height() ?零
+        $(this).css('display', 'block');
+        var modalHeight = $(window).height() / 2 - $('#youModel .modal-dialog').height() / 2;
+        $(this).find('.modal-dialog').css({
+            'margin-top': modalHeight
+        });
+    });</script>
+
+<div class="container-fluid">
+    <div class="row" style="text-align:center; align-items:center; position:relative;">
+        <div class="col" id="img2" data-toggle="modal" data-target="#myModal1">
+            <img src="~/images/photograph/pexels-photo-1779491.jpeg" style="border:1px solid rgba(0, 0, 0, 0.00); border-radius:8px;box-shadow:2px 2px 3px #000;" class="img-fluid" alt="">
+        </div>
+        <div style="position:absolute;display:block;margin:15px;padding:5px;">
+            <p style="font-size:24px;color:#e2e2e2;text-shadow:2px 2px 3px #000;">
+                某年情人節，
+                我們約定好，要一起找到愛情的真義，
+                原來，幸福出自於平凡的一幕
+            </p>
+        </div>
+
+        <div class="modal fade" id="myModal1" tabindex="1" aria-labelledby="myModalLabel"
+             aria-hidden="true">
+            <div class="modal-dialog">
+                <img src="~/images/photograph/pexels-photo-1779491.jpeg" class="img-fluid" style="border:1px solid rgba(0, 0, 0, 0.00);box-shadow:2px 2px 3px #000; border-radius:8px;" alt="">XXXXXXXXXXXXX
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">
+                        Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-4" id="img2" data-toggle="modal" data-target="#myModal2" style="display:block;text-align:center;word-wrap:break-word;">
+
+            <h1>
+                平面｜婚禮攝影
+            </h1>
+            <p>
+                推薦您優質婚攝、人像寫真、婚禮攝影以Canon、Nikon、Sony等全篇幅攝影機種，
+                為您倆捕捉感人、美麗時刻用心紀錄，為您留住浪漫回憶透過訪談式的拍攝，結合外景或者照片，
+                創造出有別以往的交往MV。
+                ?「愛情故事」是現在時下最流行的婚禮暖場影片，
+                不僅可以快速的讓賓客，
+                對你們的愛情故事有更多的了解，
+                詼諧逗趣的內容也會讓所有在場來賓，
+                ?對你們的婚禮印象深刻喔！
+            </p>
+        </div>
+        <div class="col-8" id="img2" data-toggle="modal" data-target="#myModal3">
+            <img src="~/images/photograph/pexels-photo-933118.jpeg" class="img-fluid" style="border:1px solid rgba(0, 0, 0, 0.00);box-shadow:2px 2px 3px #000; border-radius:8px;" alt="">
+        </div>
+        <div class="modal fade" id="myModal3" tabindex="1" aria-labelledby="myModalLabel"
+             aria-hidden="true">
+            <div class="modal-dialog">
+                <img src="~/images/photograph/pexels-photo-933118.jpeg" class="img-fluid" style="border:1px solid rgba(0, 0, 0, 0.00);box-shadow:2px 2px 3px #000; border-radius:8px;" alt="">
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">
+                        Close
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="col-8" id="img2" data-toggle="modal" data-target="#myModal7">
+            <img src="~/images/photograph/fashion-men-vintage-colorful.jpg" class="img-fluid" style="border:1px solid rgba(0, 0, 0, 0.00);box-shadow:2px 2px 3px #000; border-radius:8px;" alt="">
+        </div>
+        <div class="col-4" id="img2" data-toggle="modal" data-target="#myModal2" style="display:block;text-align:center;word-wrap:break-word;">
+
+            <h1>
+                婚禮微電影
+            </h1>
+            <p>
+                你們有自己想說的，屬於你們自己的愛情故事嗎？
+                ?還在?婚禮上要播什麼影片苦惱嗎？
+                播成長照片又覺得很無聊！
+                那就來拍部微電影吧！還可以ㄧ圓電影夢喔！
+                透過了解新人的故事與需求，
+                ?交給編劇創造出屬於你們的故事內容，
+                內容可以是溫馨的、搞笑的、感動的、歡樂的，
+                無論是多天馬行空的內容，我們都可以為您呈現。
+            </p>
+        </div>
+        <div class="modal fade" id="myModal7" tabindex="1" aria-labelledby="myModalLabel"
+             aria-hidden="true">
+            <div class="modal-dialog">
+                <img src="~/images/photograph/fashion-men-vintage-colorful.jpg" class="img-fluid" style="box-shadow:2px 2px 3px #000;border:1px solid rgba(0, 0, 0, 0.00); border-radius:8px;" alt="">
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">
+                        Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+
+        <div class="col-8" id="img3" data-toggle="modal" data-target="#myModal4">
+            <img src="~/images/photograph/pexels-photo-302028.jpeg" style="box-shadow:2px 2px 3px #000;border:1px solid rgba(0, 0, 0, 0.00); border-radius:8px;" class="img-fluid" alt="">
+        </div>
+        <div class="modal fade" id="myModal4" tabindex="1" aria-labelledby="myModalLabel"
+             aria-hidden="true">
+            <div class="modal-dialog">
+                <img src="~/images/photograph/pexels-photo-302028.jpeg" style="box-shadow:2px 2px 3px #000;border:1px solid rgba(0, 0, 0, 0.00); border-radius:8px;" class="img-fluid" alt="">
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">
+                        Close
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="col-4" style="padding:0px;margin:0px;">
+            <div class="col" id="img2" data-toggle="modal" data-target="#myModal5">
+                <img src="~/images/BGC1.jpg" style="box-shadow:2px 2px 3px #000;border:1px solid rgba(0, 0, 0, 0.00); border-radius:8px;" class="img-fluid" class="img-fluid" alt="">
+            </div>
+            <div class="modal fade" id="myModal5" tabindex="1" aria-labelledby="myModalLabel"
+                 aria-hidden="true">
+                <div class="modal-dialog">
+                    <img src="~/images/BGC1.jpg" style="box-shadow:2px 2px 3px #000;border:1px solid rgba(0, 0, 0, 0.00); border-radius:8px;" class="img-fluid" alt="">
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">
+                            Close
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="col" id="img2" data-toggle="modal" data-target="#myModal6">
+                <img src="~/images/photograph/pexels-photo-265722.jpeg" style="box-shadow:2px 2px 5px #000;border:1px solid rgba(0, 0, 0, 0.00); border-radius:8px;" class="img-fluid" alt="">
+            </div>
+            <div class="modal fade" id="myModal6" tabindex="1" aria-labelledby="myModalLabel"
+                 aria-hidden="true">
+                <div class="modal-dialog">
+                    <img src="~/images/photograph/pexels-photo-265722.jpeg" style="box-shadow:2px 2px 5px #000;border:1px solid rgba(0, 0, 0, 0.00); border-radius:8px;" class="img-fluid" alt="">
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">
+                            Close
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

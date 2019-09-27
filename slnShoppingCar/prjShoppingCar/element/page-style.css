@@ -1,0 +1,475 @@
+
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/* <=====================topmenu選單==========================> */
+#top {
+    position: fixed;
+    width: 76px;
+    height: 76px;
+    right: 10px;
+    bottom: 10px;
+    background-color: rgb(78, 77, 77);
+    z-index: 999;
+    cursor: pointer;
+}
+
+    #top:hover {
+        background-color: rgb(97, 96, 96);
+    }
+
+#top-bar {
+    width: 100%;
+    height: 60px;
+    z-index: 100;
+    background: rgb(83, 83, 83);
+    position: fixed;
+    /* top: -65px; */
+    -webkit-box-shadow: 0 5px 5px rgba(89, 81, 66, 0.3);
+    -moz-box-shadow: 0 5px 5px rgba(89, 81, 66, 0.3);
+    box-shadow: 0 5px 5px rgba(89, 81, 66, 0.3);
+    opacity: 0.95;
+}
+
+.topmenu {
+    width: 100%;
+    height: 60px;
+    margin: auto;
+    line-height: 60px;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+
+    /*.topbtn1 {
+      display: none;
+    }*/
+
+    .topmenu img {
+        position: relative;
+        /* top: 5px;
+               left: 15px; */
+        float: initial;
+    }
+
+.menu2 {
+    width: 100%;
+}
+
+.body-content {
+    width: 100%;
+}
+
+.topmenu ul {
+    display: inline-block;
+    position: relative;
+    list-style-type: none;
+    /* top: 13px; */
+}
+
+    .topmenu ul li {
+        position: relative;
+        float: left;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+        .topmenu ul li a:link,
+        .topmenu ul li a:focus,
+        .topmenu ul li a:active,
+        .topmenu ul li a:visited {
+            font-size: 10pt;
+            text-decoration: none;
+            color: #ffffff;
+            transition: .3s;
+        }
+
+.list-unstyled p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: #999;
+}
+
+.list-unstyled a,
+.list-unstyled a:hover,
+.list-unstyled a:focus {
+    color: #ffffff;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.topmenu ul li a:hover {
+    position: relative;
+    color: #a49982;
+}
+
+@media screen and (min-width:960px) {
+    #sidebarCollapse.btn {
+        display: none;
+    }
+
+    div.topbtn1 {
+        display: none;
+    }
+}
+
+.toplist > li:hover {
+    color: #ffffff;
+}
+
+.toplist li a {
+    font-family: 'Microsoft YaHei'
+}
+
+@media screen and (max-width:960px) {
+    .topmenu li,
+    .carousel p img {
+        display: none;
+    }
+
+    #sidebarCollapse.btn {
+        display: block;
+        padding-left: 15px;
+    }
+}
+
+#sidebarCollapse.btn {
+    padding-left: 15px;
+}
+
+/* <======================topmenu結束============================ */
+/* <======================隱藏選單開始============================ */
+#sidebar {
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: -250px;
+    height: 100vh;
+    z-index: 999;
+    background: rgb(81, 82, 83);
+    color: rgb(230, 146, 146);
+    transition: all 0.3s;
+    overflow-y: scroll;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
+}
+
+    #sidebar.active {
+        left: 0;
+    }
+
+#dismiss {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    background: rgb(81, 82, 83);
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+    #dismiss:hover {
+        background: rgb(230, 228, 228);
+        color: rgb(81, 82, 83);
+    }
+
+.overlay {
+    display: none;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 998;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+}
+
+    .overlay.active {
+        display: block;
+        opacity: 1;
+    }
+
+#sidebar .sidebar-header {
+    padding: 20px;
+    background: rgb(81, 82, 83);
+}
+
+#sidebar ul.components {
+    padding: 20px 0;
+    border-bottom: 1px solid #47748b;
+    text-decoration: none;
+    font-family: 'Microsoft YaHei';
+}
+
+#sidebar ul p {
+    color: rgb(85, 84, 84);
+    padding: 10px;
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+}
+
+    #sidebar ul li a:hover {
+        color: rgb(81, 82, 83);
+        background: #fff;
+        font-size: 16px;
+        text-decoration: none;
+    }
+
+#sidebar ul li.active > a,
+a[aria-expanded="true"] {
+    color: rgb(255, 255, 255);
+    background: rgb(81, 82, 83);
+}
+
+a[data-toggle="collapse"] {
+    position: relative;
+}
+
+.card {
+    border-radius: 0;
+    border: 0px;
+    width: 100%;
+    height: 600px;
+}
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+ul ul a {
+    font-size: 1.2em !important;
+    padding-left: 30px !important;
+    background: rgb(81, 82, 83);
+}
+
+ul.CTAs {
+    padding: 20px;
+}
+
+    ul.CTAs a {
+        text-align: center;
+        font-size: 1.2em !important;
+        display: block;
+        border-radius: 5px;
+        margin-bottom: 5px;
+    }
+
+a.download {
+    background: #fff;
+    color: rgb(81, 82, 83);
+}
+
+a.article,
+a.article:hover {
+    background: rgb(81, 82, 83) !important;
+    color: #fff !important;
+}
+
+.title .btn {
+    background-color: rgba(126, 123, 123, 0.3);
+    color: aliceblue;
+    margin: 10px;
+    padding: 0px;
+}
+
+.topbtn1 {
+    display: block;
+    padding: 15px;
+}
+
+.carousel-content h3 {
+    font-size: 50px;
+    line-height: 150px;
+}
+
+.carousel-content p {
+    font-size: 30px;
+}
+/* <======================隱藏選單結束============================ */
+.box1-1 {
+    margin: 20px 0px;
+    padding-top: 20px;
+    width: 100%;
+    height: 300px;
+    border: 3px solid #999;
+    background-color: aliceblue;
+    display: block;
+}
+
+.box1-2 {
+    margin: 20px 0px;
+    padding-top: 20px;
+    width: 100%;
+    height: 300px;
+    border: 3px solid #999;
+    background-color: aliceblue;
+    display: block;
+}
+/* <======================pagebody開始============================ */
+
+#prjtext {
+    display: block;
+    font-size: 50px;
+    margin-bottom: 20px;
+    font-family: 'Microsoft YaHei';
+    font-weight: 300;
+}
+
+.carousel-inner {
+    margin: 0px;
+    height: 100%;
+}
+
+.card-img-overlay {
+    padding: 0px;
+}
+
+.page-body {
+    padding-top: 60px;
+}
+
+.btnbar {
+    padding: 15px;
+}
+
+.footer {
+    background-color: rgb(81, 82, 83);
+    width: 100%;
+    height: 200px;
+}
+
+#menu4img {
+    margin: 5px;
+    padding: 0;
+    width: 25%;
+    display: inline-block;
+    border: 3px solid rgba(0, 0, 0, 0.00);
+    border-radius: 5px;
+}
+
+    #menu4img.box {
+        background-color: aliceblue;
+        border-radius: 5px;
+        box-shadow: 4px 4px 3px rgba(20%,20%,40%,0.5);
+        border: 0px solid rgba(0, 0, 0, 0.00);
+    }
+
+    #menu4img img {
+        border-radius: 5px;
+        border: 0px solid rgba(0, 0, 0, 0.00);
+    }
+
+#menu4 {
+    height: 350px;
+}
+
+    #menu4 a {
+        padding: 3px;
+        display: block;
+        color: black;
+        font-family: "Microsoft YaHei";
+        text-decoration: none;
+        text-shadow: 2px 2px 2px #cccccc;
+    }
+
+/* Center the loader */
+#loader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 1;
+    width: 150px;
+    height: 150px;
+    margin: -75px 0 0 -75px;
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+    position: relative;
+    -webkit-animation-name: animatebottom;
+    -webkit-animation-duration: 0.8s;
+    animation-name: animatebottom;
+    animation-duration: 0.8s
+}
+
+@-webkit-keyframes animatebottom {
+    from {
+        bottom: -100px;
+        opacity: 0
+    }
+
+    to {
+        bottom: 0px;
+        opacity: 1
+    }
+}
+
+@keyframes animatebottom {
+    from {
+        bottom: -100px;
+        opacity: 0
+    }
+
+    to {
+        bottom: 0;
+        opacity: 1
+    }
+}
+
+#myDiv {
+    display: none;
+    text-align: center;
+}
+
+.footer p {
+    color: aliceblue;
+}
+
+
+/* <======================pagebody結束============================ */
